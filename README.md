@@ -21,13 +21,15 @@ A good internet connection
 List of channels :-
 
 ### TV Channels
+
+<p align="center">
 <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc1_2.png" class="center">
 <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc2_0.png" class="center">
 <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc3_0.png" class="center">
 <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/BTV-logo.png" class="center">
 <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/cinetvlogo.png" class="center">
 <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/ys-logo.png" class="center">
-
+</p>
 
 
 
