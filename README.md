@@ -1,4 +1,4 @@
-# MBC (Mauritius Broadcasting Corporation)(Unofficial)
+# MBC (Mauritius Broadcasting Corporation) Streaming Channels 
 <p align="center">
   <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc.png">
 </p>
@@ -7,6 +7,8 @@
 
 
 This will allow you to watch these TV channels and Stream radio channels for free on any device, Even your smart tv!
+
+NOTE : THESE STREAMING LINKS ARE COMPLETELY HIDDEN IN THE APP'S CODES! I WAS ABLE TO DECRYPT THE LINKS USING AN APP CALLED HTTPCANARY, WHICH IS USED TO ANALYSE THE TRAFICS WHICH IS BEING SENT BY ANDROID APPS!
 
 Requirements :-
 
@@ -41,5 +43,12 @@ List of channels :-
 <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/radiochannels/taal_fm_100.png" class="center">
 </p>
 
+### Links
 
+## TV
+https://github.com/tangyyt912/mbcplaychannels/blob/main/playlists/tvchannels.m3u8
+
+## Radio
+
+https://github.com/tangyyt912/mbcplaychannels/blob/main/playlists/radiochannels.m3u8
 
