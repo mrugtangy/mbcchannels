@@ -1,0 +1,18 @@
+#EXTM3U
+#EXTINF:0, MBC 1
+https://hls.mbconline.xyz/live/MBC1/index.m3u8
+#EXTINF:0, MBC 2
+https://hls.mbconline.xyz/live/MBC2/index.m3u8
+#EXTINF:0, MBC 3
+https://hls.mbconline.xyz/live/MBC3/index.m3u8
+#EXTINF:0, MBC 4(BTV)
+https://hls.mbconline.xyz/live/BTV/index.m3u8
+http://185.65.30.452:1223/Tv4243
+#EXTINF:0, MBC 12(Cine TV)
+https://hls.mbconline.xyz/live/MBC12/index.m3u8
+#EXTINF:0, MBC 11(YSTV)
+https://hls.mbconline.xyz/live/YSTV/index.m3u8
+#EXTINF:0, Learning Channel
+https://hls.mbconline.xyz/live/education/index.m3u8
+#EXTINF:0, Events
+https://hlsonline.in/hls/lps123.m3u8
