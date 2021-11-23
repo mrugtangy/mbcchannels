@@ -1,6 +1,10 @@
 # Mauritius Broadcasting Corparation(MBC)(UNOFFICIAL)
+<p align="center">
+  <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc.png">
+</p>
 
 <h1 align="center"> Streaming links for TV/Radio channels found in the MBC Play app</h1> 
+
 
 This will allow you to watch these TV channels and Stream radio channels for free on any Device, Even your smart tv!
 
