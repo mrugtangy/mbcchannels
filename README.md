@@ -11,7 +11,7 @@ This will allow you to watch these TV channels and Stream radio channels for fre
 ## NOTE : 
 #### THESE STREAMING LINKS ARE COMPLETELY HIDDEN IN THE APP'S CODES! I WAS ABLE TO DECRYPT THE LINKS USING AN APP CALLED HTTPCANARY, WHICH IS USED TO ANALYSE THE TRAFICS SENT BY ANDROID APPS!
 
-Requirements :-
+## Requirements :-
 
 Laptop or Desktop with Windows XP/7/8/10 or An android device with with Android 8+ such as a Smartphone, Tablet or a Smart TV
 
