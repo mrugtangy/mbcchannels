@@ -44,12 +44,20 @@ A good internet connection
 <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/radiochannels/taal_fm_100.png" class="center">
 </p>
 
-### Links
+## Links
 
-### TV
+### TV Playlist
 https://github.com/tangyyt912/mbcplaychannels/blob/main/playlists/tvchannels.m3u8
 
-### Radio
+### Radio Playlist
 
 https://github.com/tangyyt912/mbcplaychannels/blob/main/playlists/radiochannels.m3u8
+
+### Recommended apps
+
+https://www.microsoft.com/en-in/p/iptv/9nblggh08dwp
+
+https://kodi.tv/download
+
+https://www.videolan.org/vlc/
 
