@@ -47,11 +47,11 @@ A good internet connection
 ## Links
 
 ### TV Playlist
-https://github.com/tangyyt912/mbcplaychannels/blob/main/playlists/tvchannels.m3u8
+https://raw.githubusercontent.com/tangyyt912/mbcplaychannels/main/playlists/tvchannels.m3u
 
 ### Radio Playlist
 
-https://github.com/tangyyt912/mbcplaychannels/blob/main/playlists/radiochannels.m3u8
+https://raw.githubusercontent.com/tangyyt912/mbcplaychannels/main/playlists/radiochannels.m3u
 
 ### Recommended apps
 
