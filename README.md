@@ -21,7 +21,7 @@ A good internet connection
 
 *Do not use IPTV smarters pro for PC since it asks for Username and password, which is not required to stream these channels. It's required and there's no way of bypassing it unless, you buy a subscription from a reseller. You can use the Android app since it allows you to add an m3u8 playlist!
 
-List of channels :-
+## List of channels :-
 
 ### TV Channels
 
