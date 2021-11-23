@@ -19,14 +19,14 @@ A good internet connection
 *Do not use IPTV smarters pro for PC since it asks for Username and password, which is not required to stream these channels. It's required and there's no way of bypassing it unless, you buy a subscription from a reseller. You can use the Android app since it allows you to add an m3u8 playlist!
 
 List of channels :-
-### TV Channels
 
-![alt text](https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc1_2.png)
-![alt text](https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc2_0.png)
-![alt text](https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc3_0.png)
-![alt text](https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/BTV-logo.png)
-![alt text](https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/cinetvlogo.png)
-![alt text](https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/ys-logo.png)
+### TV Channels
+<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc1_2.png" class="center">
+<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc2_0.png" class="center">
+<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc3_0.png" class="center">
+<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/BTV-logo.png" class="center">
+<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/cinetvlogo.png" class="center">
+<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/ys-logo.png" class="center">
 
 
 
