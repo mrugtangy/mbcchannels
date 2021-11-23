@@ -5,6 +5,7 @@
 This will allow you to watch these TV channels and Stream radio channels for free on any Device, Even your smart tv!
 
 Requirements :-
+
 Laptop or Desktop with Windows XP/7/8/10 or An android device with with Android 8+ such as a Smartphone, Tablet or a Smart TV
 VLC media player/Any IPTV APP*/Any browser(Android only)
 A good internet connection
