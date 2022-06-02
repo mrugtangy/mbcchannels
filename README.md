@@ -1,61 +1,30 @@
-# MBC (Mauritius Broadcasting Corporation) Channels Streaming Links
-<p align="center">
-  <img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/mbc.png">
-</p>
+<img src="https://github.com/tangyyt912/mbcplaychannels/raw/main/logos/mbc.png" title="" alt="" data-align="center">
 
-### Streaming links for TV/Radio channels found in the MBC Play app
+Please note that other channels streamed by  are not available becauce those are not from MBC and are provided by other TV companies. For example, ZOOM is provided by the Indian TV company. 
 
+If you wish to access these channels, please look for other IPTV playlists available on GitHub. An example is this one. Some channels might not works as some of them are outdated.
 
-This will allow you to watch these TV channels and Stream radio channels for free on any device, Even your smart tv!
+## List of TV channels
 
-## NOTE : 
-#### THESE STREAMING LINKS ARE COMPLETELY HIDDEN IN THE APP'S CODES! I WAS ABLE TO DECRYPT THE LINKS USING AN APP CALLED HTTPCANARY, WHICH IS USED TO ANALYSE THE TRAFICS SENT BY ANDROID APPS!
+<img title="" src="http://back.mbconline.xyz/images/add1/logo1.png" alt="" width="50">  <img title="" src="http://back.mbconline.xyz/images/add1/logo2.png" alt="" width="50">  <img src="http://back.mbconline.xyz/images/add1/logo3.png" title="" alt="" width="50">  <img src="http://back.mbconline.xyz/images/add1/logo4.png" title="" alt="" width="50"><img src="http://back.mbconline.xyz/images/add1/logo11.png" title="" alt="" width="50"><img src="http://back.mbconline.xyz/images/add1/pay-ch.jpg" title="" alt="" width="57">  <img src="http://back.mbconline.xyz/images/add1/education.png" title="" alt="" width="77">
 
-## Requirements :-
+## List of Radio channels
 
-Laptop or Desktop with Windows XP/7/8/10 or An android device with with Android 8+ such as a Smartphone, Tablet or a Smart TV
+![](https://github.com/tangyyt912/mbcplaychannels/raw/main/logos/radiochannels/best_fm_live_100.png)![](https://raw.githubusercontent.com/tangymc/mbcplaychannels/main/logos/radiochannels/kool_fm_100.png)![nrj_logo.png](https://github.com/tangymc/mbcplaychannels/blob/main/logos/radiochannels/nrj_logo.png?raw=true)![radio_maurice_100.png](https://github.com/tangymc/mbcplaychannels/blob/main/logos/radiochannels/radio_maurice_100.png?raw=true)![](https://raw.githubusercontent.com/tangymc/mbcplaychannels/main/logos/radiochannels/rodfm_logo_white.png) ![](https://raw.githubusercontent.com/tangymc/mbcplaychannels/main/logos/radiochannels/taal_fm_100.png)
 
-VLC media player/Any IPTV app which lets you add a playlist/Any browser(Android only)
+These playlists can be used on IPTV apps that allows you to use a m3u playlist or any m3u playlist player. Apps that I recommend are Kodi (With IPTV extension) and VLC. These two are free and available on Android/Android TV, Windows, Linux and macOS!
 
-A good internet connection
+## TV Playlist
 
-## List of channels :-
-
-### TV Channels
-
-<p align="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/tvchannels/mbc1_2.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/tvchannels/mbc2_0.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/tvchannels/mbc3_0.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/tvchannels/BTV-logo.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/tvchannels/cinetvlogo.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/tvchannels/ys-logo.png" class="center">
-</p>
-
-### Radio Channels
-<p align="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/radiochannels/best_fm_live_100.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/radiochannels/kool_fm_100.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/radiochannels/nrj_logo.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/radiochannels/radio_maurice_100.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/radiochannels/rodfm_logo_white.png" class="center">
-<img src="https://github.com/tangyyt912/mbcplaychannels/blob/main/logos/radiochannels/taal_fm_100.png" class="center">
-</p>
-
-## Links
-
-### TV Playlist
 https://raw.githubusercontent.com/tangyyt912/mbcplaychannels/main/playlists/tvchannels.m3u
 
-### Radio Playlist
+## Radio Playlist
 
 https://raw.githubusercontent.com/tangyyt912/mbcplaychannels/main/playlists/radiochannels.m3u
 
-### Recommended apps
+You can either copy the link and paste it into your player or download and import the playlist to your player in case your player doesn't support the usage of URLs.
 
-https://www.microsoft.com/en-in/p/iptv/9nblggh08dwp
 
-https://kodi.tv/download
+All logos and brandings belongs to their respective owner aka **Mauritius Broadcasting Corporation**.
 
-https://www.videolan.org/vlc/
 

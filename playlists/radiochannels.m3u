@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:0, Best FM
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/headphones.png", Best FM
 https://radio.mbconline.xyz/hls/bestfm.m3u8
-#EXTINF:0, Kool FM
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/headphones.png", Kool FM
 https://radio.mbconline.xyz/hls/koolfm.m3u8
-#EXTINF:0, Music FM
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/headphones.png", Music FM
 https://radio.mbconline.xyz/hls/musicfm.m3u8
-#EXTINF:0, Radio Maurice
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/headphones.png", Radio Maurice
 https://radio.mbconline.xyz/hls/radiomaurice.m3u8
-#EXTINF:0, Radio Mauritius
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/headphones.png", Radio Mauritius
 https://radio.mbconline.xyz/hls/radiomauritus.m3u8
-#EXTINF:0, Taal FM
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/headphones.png", Taal FM
 https://radio.mbconline.xyz/hls/tallfm.m3u8
-#EXTINF:0, Radio Rodrigues (Only accessible in Rodrigues!)
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/headphones.png", Radio Rodrigues
 https://radio.mbconline.xyz/hls/rodrigusfm.m3u8

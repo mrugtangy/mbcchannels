@@ -1,17 +1,17 @@
 #EXTM3U
-#EXTINF:0, MBC 1
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/logo1.png", MBC 1
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
-#EXTINF:0, MBC 2
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/logo2.png", MBC 2
 https://hls.mbconline.xyz/live/MBC2/index.m3u8
-#EXTINF:0, MBC 3
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/logo3.png", MBC 3
 https://hls.mbconline.xyz/live/MBC3/index.m3u8
-#EXTINF:0, MBC 4(BTV)
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/logo4.png", MBC 4(BTV)
 https://hls.mbconline.xyz/live/BTV/index.m3u8
-#EXTINF:0, MBC 12(Cine TV)
-https://hls.mbconline.xyz/live/MBC12/index.m3u8
-#EXTINF:0, MBC 11(YSTV)
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/logo11.png", YSTV
 https://hls.mbconline.xyz/live/YSTV/index.m3u8
-#EXTINF:0, Learning Channel
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/logo12.png", Cine TV
+https://hls.mbconline.xyz/live/MBC12/index.m3u8
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/education.png", Learning Channel
 https://hls.mbconline.xyz/live/education/index.m3u8
-#EXTINF:0, Events
+#EXTINF:-1 tvg-logo="http://back.mbconline.xyz/images/add1/pay-ch.jpg", Events
 https://hlsonline.in/hls/lps123.m3u8
