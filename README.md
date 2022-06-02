@@ -11,6 +11,7 @@ If you wish to access these channels, please look for other IPTV playlists avail
 ## List of Radio channels
 
 ![](https://github.com/tangyyt912/mbcplaychannels/raw/main/logos/radiochannels/best_fm_live_100.png)![](https://raw.githubusercontent.com/tangymc/mbcplaychannels/main/logos/radiochannels/kool_fm_100.png)![nrj_logo.png](https://github.com/tangymc/mbcplaychannels/blob/main/logos/radiochannels/nrj_logo.png?raw=true)![radio_maurice_100.png](https://github.com/tangymc/mbcplaychannels/blob/main/logos/radiochannels/radio_maurice_100.png?raw=true)![](https://raw.githubusercontent.com/tangymc/mbcplaychannels/main/logos/radiochannels/rodfm_logo_white.png) ![](https://raw.githubusercontent.com/tangymc/mbcplaychannels/main/logos/radiochannels/taal_fm_100.png)
+
 **Rodrigues FM is only accessible in Rodrigues!**
 
 These playlists can be used on IPTV apps that allows you to use a m3u playlist or any m3u playlist player. Apps that I recommend are [Kodi](https://kodi.tv/download/) (With IPTV extension) and [VLC](https://www.videolan.org/vlc/). These two are free and available on Android/Android TV, Windows, Linux and macOS!
