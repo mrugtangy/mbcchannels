@@ -1,6 +1,6 @@
 ## <img title="" src="https://github.com/tangyyt912/mbcplaychannels/raw/main/logos/mbc.png" alt="" data-align="inline">  TV/Radio Channels
 
-Please note that other channels streamed by  are not available becauce those are not from MBC and are provided by other TV companies. For example, ZOOM is provided by the Indian TV company. 
+Please note that non-MBC chanels are not available becauce those are not from MBC and are provided by other TV companies. For example, ZOOM is provided by the Indian TV company. 
 
 If you wish to access these channels, please look for other IPTV playlists available on GitHub. An example is [this one](https://github.com/iptv-org/iptv).
 
