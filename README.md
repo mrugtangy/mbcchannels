@@ -55,7 +55,7 @@ For Android, You can use [VLC for Android](https://www.videolan.org/vlc/download
 
 Well, I used HttpCanary on an Android phone to be able to get the links.
 
-Why So? Well, In older versions of MBC Play App, The streaming links to each channels were in the app's code. But in newer versions, the new links were completely removed from the app's code and I wasn't able to find it. This is when I had the idea to use HttpCanary as it is used to analyse any traffic passing though it's Local VPN (pretty much a packet sniffer but for Android).
+Why So? Well, In older versions of MBC Play App, The streaming links to each channels were in the app's code. But in newer versions, the new links were completely removed from the app's code and I wasn't able to find it. This is when I had the idea to use HttpCanary as it is used to analyse any traffic passing though its Local VPN (pretty much a packet sniffer but for Android).
 
 But I faced some issues when using the app. Firstly, I wasn't able to analyse the traffic of the MBC Play app since I needed to install HttpCanary's Certificate as root so that I can analyse encrypted packets or something like that since the app was using it to access the streaming links. And secondly, I needed root access to do it and the MBC Play App was refusing to launch due to root and also, wasn't functioning properly when safetynet was failling to pass.
 
