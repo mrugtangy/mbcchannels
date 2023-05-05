@@ -18,10 +18,10 @@ TV Playlist
 | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | ------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 
 <center>   
-<h6>
+<h5>
 <a href="https://raw.githubusercontent.com/tangymc/mbcchannels/main/playlists/tvchannels.m3u">Playlist</a>
 (Copy link or Save as)
-</h6>
+</h5>
 </center>
 
 <center>
@@ -34,28 +34,24 @@ Radio Playlist
 | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
 
 <center>   
-<h6>
+<h5>
 <a href="https://raw.githubusercontent.com/tangymc/mbcchannels/main/playlists/radiochannels.m3u">Playlist</a>
 (Copy link or Save as)
-</h6>
+</h5>
 
 ---
-
-<center>
-<h3> </h3>
-</center>
 
 <center>
 <h3>FAQ</h3>
 </center>
 
-###### How can I play the playlist?
+##### How can I play the playlist?
 
 You can use softwares such as [Kodi](https://kodi.tv) (With IPTV Plugin), [VLC](https://www.videolan.org/vlc), [IPTVnator](https://github.com/4gray/iptvnator) or any other IPTV/M3U player if you're on Windows, Linux or MacOS as long as it supports the usage of m3u link or m3u file.
 
 For Android, You can use [VLC for Android](https://www.videolan.org/vlc/download-android.html), [Kodi](https://kodi.tv/download/android) (With IPTV Plugin), [Sparkle TV](https://sites.google.com/view/sparkleplayer/) (Recommended for Android TV) or any other IPTV/M3U Player as long as it supports the usage of m3u link or file.
 
-###### How did you find the streaming links for the channels?
+##### How did you find the streaming links for the channels?
 
 Well, I used HttpCanary on an Android phone to be able to get the links.
 
@@ -67,7 +63,7 @@ Thankfully, I had a device with Magisk installed (root) and as a workaround, I u
 
 And finally, I was able to launch the app and then, I played every channel on it and all the streaming links were sniffed by HttpCanary.
 
-###### Can you please integrate TV Guide (EPG) in it?
+##### Can you please integrate TV Guide (EPG) in it?
 
 Unfortunately, I haven't found any link to their EPG yet. But, I might find it in the future if I try or if they add it on the app.
 
