@@ -3,7 +3,7 @@
 https://hls.mbconline.xyz/live/MBC1/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc2.png", MBC 2
 https://hls.mbconline.xyz/live/MBC2/index.m3u8
-#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc.png", MBC 3
+#EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc3.png", MBC 3
 https://hls.mbconline.xyz/live/MBC3/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc4.png", MBC 4
 https://hls.mbconline.xyz/live/BTV/index.m3u8
