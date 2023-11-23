@@ -12,4 +12,4 @@ https://hls.mbconline.xyz/live/MBC5/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc17.png", MBC 17
 https://hls.mbconline.xyz/live/education/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbcsat.png", MBC SAT
-https://hls.mbconline.xyz/live/YSTV/index.m3u8
+https://hls.mbconline.xyz/live/MBCSAT/index.m3u8
