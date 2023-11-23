@@ -8,7 +8,7 @@ https://hls.mbconline.xyz/live/MBC3/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc4.png", MBC 4
 https://hls.mbconline.xyz/live/BTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc5.png", MBC 5
-https://hls.mbconline.xyz/live/MBC12/index.m3u8
+https://hls.mbconline.xyz/live/MBC5/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbc17.png", MBC 17
 https://hls.mbconline.xyz/live/education/index.m3u8
 #EXTINF:-1 tvg-logo="https://github.com/tangymc/mbcchannels/raw/main/logos/tvchannels/mbcsat.png", MBC SAT
