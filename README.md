@@ -45,9 +45,9 @@ Radio Playlist
 <h3>FAQ</h3>
 </center>
 
-##### How can I play the playlist?
+##### How can I use/stream the playlists?
 
-You can use softwares such as [Kodi](https://kodi.tv) (With IPTV Plugin), [VLC](https://www.videolan.org/vlc), [IPTVnator](https://github.com/4gray/iptvnator) or any other IPTV/M3U player if you're on Windows, Linux or MacOS as long as it supports the usage of m3u link or m3u file.
+You can use any IPTV player found in [this list](https://github.com/iptv-org/awesome-iptv?tab=readme-ov-file#apps) to do so.
 
 For Android, You can use [VLC for Android](https://www.videolan.org/vlc/download-android.html), [Kodi](https://kodi.tv/download/android) (With IPTV Plugin), [Sparkle TV](https://sites.google.com/view/sparkleplayer/) (Recommended for Android TV) or any other IPTV/M3U Player as long as it supports the usage of m3u link or file.
 
