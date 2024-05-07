@@ -49,8 +49,6 @@ Radio Playlist
 
 You can use any IPTV player found in [this list](https://github.com/iptv-org/awesome-iptv?tab=readme-ov-file#apps) to do so.
 
-For Android, You can use [VLC for Android](https://www.videolan.org/vlc/download-android.html), [Kodi](https://kodi.tv/download/android) (With IPTV Plugin), [Sparkle TV](https://sites.google.com/view/sparkleplayer/) (Recommended for Android TV) or any other IPTV/M3U Player as long as it supports the usage of m3u link or file.
-
 ##### How did you find the streaming links for the channels?
 
 Well, I used HttpCanary on an Android phone to be able to get the links.
