@@ -45,6 +45,9 @@ Radio Playlist
 <h3>FAQ</h3>
 </center>
 
+##### IMPORTANT!
+The channels can only be streamed in Mauritius. You can however, try to look for a Mauritian proxy or VPN to access it abroad.
+
 ##### How can I use/stream the playlists?
 
 You can use any IPTV player found in [this list](https://github.com/iptv-org/awesome-iptv?tab=readme-ov-file#apps) to do so.
