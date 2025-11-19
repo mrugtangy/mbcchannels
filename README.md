@@ -1,7 +1,3 @@
-Here is a clean, polished, professionally formatted version of your entire Markdown page — same content, just properly structured, aligned, and consistent in formatting.
-
-
----
 
 <p align="center">
   <img src="https://github.com/tangymc/mbcchannels/blob/main/logos/mbc.png?raw=true" alt="MBC Logo">
