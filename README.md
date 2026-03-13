@@ -1,7 +1,5 @@
 # Mauritius (MBC) TV & Radio Channels Playlists
 
----
-
 ### List of Channels Included
 
 ## 📺 TV Playlist
