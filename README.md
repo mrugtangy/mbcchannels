@@ -21,7 +21,7 @@
 ---
 
 ### ❗ IMPORTANT
-The channels can **only be streamed within Mauritius**
+The channels can **only be streamed within Mauritius**.
 Outside Mauritius, you may try using a **Mauritian VPN or proxy**.
 This is due to MBC **geo-restricting** these channels to **Mauritius only**.
 
