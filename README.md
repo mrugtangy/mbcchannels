@@ -49,6 +49,18 @@ To extract them, I:
 
 This allowed me to retrieve all the stream URLs.
 
+### 💰 Why not just use the official MBC Play app?
+
+As you may know, we already pay for the TV services provided by **MBC** through the **TV License Fee**.
+
+Additionally, the **MBC Play** app contains advertisements, which generate revenue for them.
+
+When using these playlists, you are **not using the official app**, meaning you are not exposed to those ads. Instead, you can use **any IPTV/M3U8 player of your choice**, many of which are ad-free.
+
+All you need is an **internet connection**, and you can access the channels on almost **any device**.
+
+This simply provides an **alternative, ad-free way to watch these channels** without relying on the official app, which is currently **not available on platforms such as Android TV, Windows, and other operating systems**.
+
 ### 📅 Can you integrate TV Guide (EPG)?
 
 Not yet — no EPG link has been found.  
