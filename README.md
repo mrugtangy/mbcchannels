@@ -25,7 +25,7 @@ The channels can **only be streamed within Mauritius**.
 Outside Mauritius, you may try using a **Mauritian VPN or proxy**.
 This is due to MBC **geo-restricting** these channels to **Mauritius only**.
 
-**However, some users reported that they were able to stream them outside Mauritius, without any VPN or proxy. Interesting...**
+**However, some users reported that they were able to stream them outside Mauritius, without any VPN or proxy. Interesting🤔**
 
 Some channels (such as **ZOOM** or others not included in **MBC Play**) **cannot** be added.  
 However, **TV5Monde/TIVI5 is available on MBC 17**, so it is included.
